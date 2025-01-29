@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Srijan Saraswat",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Srijan.JPG",
+            "imageUrl": "./src/assets/coordis/Srijan3.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
             "instagramUrl": "https://www.instagram.com/racinmk/"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Yash Khatri",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Yash.JPG",
+            "imageUrl": "./src/assets/coordis/Yash3.JPG",
             "linkedinUrl": "./src/assets/coordis/Yash.JPG",
             "instagramUrl": ""
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Akshit Mahajan",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Akshit.JPG",
+            "imageUrl": "./src/assets/coordis/Akshit 4.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
             "instagramUrl": "https://www.instagram.com/anshul_03_/"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Manas Bajpai",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/coordis/ayush3.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/manas-bajpai/",
             "instagramUrl": "https://www.instagram.com/manas.bajpai_1804/"
         }
