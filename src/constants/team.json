@@ -63,25 +63,25 @@
     "contributors" : [
         {
             "id": 1,
-            "name": "Manik Kapoor",
-            "designation": "Web Developer",
-            "imageUrl": "./src/assets/contibutors/Manik-Kapoor.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
-            "instagramUrl": "https://www.instagram.com/manik_2375/"
+            "name": "Rushil Sharma",
+            "designation": "Full Stack Developer",
+            "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/codewithrushil/",
+            "instagramUrl": "https://www.instagram.com/rushil.in/"
         },
         {
             "id": 2,
-            "name": "Rushil Sharma",
+            "name": "Manik Kapoor",
             "designation": "Web Developer",
-            "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
-            "instagramUrl": "https://www.instagram.com/sam.v_julius/"
+            "imageUrl": "./src/assets/contibutors/Manik_Kapoor.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
+            "instagramUrl": "https://www.instagram.com/manik_2375/"
         },
         {
             "id": 3,
             "name": "Aarushi Kansal",
             "designation": "Web Developer",
-            "imageUrl": "src/Screenshot 2025-01-29 234432.webp",
+            "imageUrl": "./src/assets/contributors/aarushi_kansal.webp",
             "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
             "instagramUrl": "https://www.instagram.com/yashkhatri99/"
         },
@@ -89,7 +89,7 @@
             "id": 4,
             "name": "Darshita Shukla",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/contributors/Darshita_Shukla.webp",
             "linkedinUrl": "https://www.linkedin.com/in/darshita-shukla-743510323/",
             "instagramUrl": "https://www.instagram.com/darshita_2006/"
         },
@@ -105,7 +105,7 @@
             "id": 6,
             "name": "Ananya",
             "designation": "Web Developer",
-            "imageUrl": "src/1737783882203 (1).webp",
+            "imageUrl": "./src/assets/contributors/Ananya.webp",
             "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
             "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
         },
@@ -113,7 +113,7 @@
             "id": 7,
             "name": "Shoaib Malik",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/contributors/Shoaib.webp",
             "linkedinUrl": "https://www.linkedin.com/in/shoaib-malik-7583682ba/",
             "instagramUrl": "https://www.instagram.com/shoaibmal_.k/"
         },
@@ -121,7 +121,7 @@
             "id": 8,
             "name": "Jeetansh",
             "designation": "Web & App Dev",
-            "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
+            "imageUrl": "./src/assets/contributors/Jeetansh.webp",
             "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
             "instagramUrl": "https://www.instagram.com/shivansh2_55/"
         },
