@@ -81,19 +81,19 @@ const teamleads = [
 const contributors = [
     {
         "id": 1,
-        "name": "Manik Kapoor",
-        "designation": "Web Developer",
-        "imageUrl": "./contributors/Manik-Kapoor.webp",
-        "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
-        "instagramUrl": "https://www.instagram.com/manik_2375/"
-    },
-    {
-        "id": 2,
         "name": "Rushil Sharma",
         "designation": "Web Developer",
         "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
         "linkedinUrl": "https://www.linkedin.com/in/codewithrushil/",
         "instagramUrl": "https://www.instagram.com/rushil.in/"
+    },
+    {
+        "id": 2,
+        "name": "Manik Kapoor",
+        "designation": "Web Developer",
+        "imageUrl": "./contributors/Manik-Kapoor.webp",
+        "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
+        "instagramUrl": "https://www.instagram.com/manik_2375/"
     },
     {
         "id": 3,
