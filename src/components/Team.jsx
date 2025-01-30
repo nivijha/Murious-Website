@@ -91,7 +91,7 @@ const contributors = [
         "id": 2,
         "name": "Manik Kapoor",
         "designation": "Web Developer",
-        "imageUrl": "./contributors/Manik-Kapoor.webp",
+        "imageUrl": "./src/assets/contributors/Manik_Kapoor.webp",
         "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
         "instagramUrl": "https://www.instagram.com/manik_2375/"
     },
@@ -99,7 +99,7 @@ const contributors = [
         "id": 3,
         "name": "Aarushi Kansal",
         "designation": "Web Developer",
-        "imageUrl": "src/Screenshot 2025-01-29 234432.webp",
+        "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
         "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
         "instagramUrl": "https://www.instagram.com/yashkhatri99/"
     },
