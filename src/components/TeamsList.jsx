@@ -31,7 +31,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Lorem-ipsum"
+          tag="Meet the TMP techies"
           title="Team"
         />
         <div className="team-container">
