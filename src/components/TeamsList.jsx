@@ -1,4 +1,5 @@
 import Section from "./Section";
+import { curve } from "../assets";
 import { smallSphere, stars } from "../assets";
 import Heading from "./Heading";
 import TeamCard from "./TeamCard";
@@ -30,10 +31,9 @@ const Pricing = () => {
           </div>
         </div>
 
-        <Heading
-          tag="Meet the TMP techies"
-          title="Team"
-        />
+        <h1 className="text-4xl relative w-min mx-auto">Team
+          <img src={curve} alt="" />
+        </h1>
         <div className="team-container">
             <div className="team-section">
                 <h1 className="text-xl">Mentors</h1>
