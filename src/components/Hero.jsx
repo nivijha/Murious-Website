@@ -21,10 +21,10 @@ const Hero = () => {
       id="hero"
     >
       <div className="container relative" ref={parallaxRef}>
-      <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
+        <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
             Explore the Possibilities and dive into {` `}
-             {` `}
+            {` `}
             <span className="inline-block relative">
               Murious 19.0{" "}
               <img
@@ -37,9 +37,14 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          Bringing You a Realm of Endless Excitement. Dare to Explore the Extraordinary.
+            Bringing You a Realm of Endless Excitement. Dare to Explore the
+            Extraordinary.
           </p>
-          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSeMYbCu5XAxFIFfsS6RqPkeUnaoe2H_SiDHCxWaYvktGGiyTg/viewform" className="text-xl"white>
+          <Button
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeMYbCu5XAxFIFfsS6RqPkeUnaoe2H_SiDHCxWaYvktGGiyTg/viewform"
+            className="text-xl"
+            white
+          >
             Register Now
           </Button>
         </div>
@@ -49,13 +54,15 @@ const Hero = () => {
               <div className="h-[1.4rem] bg-n-10 rounded-t-[0.9rem]" />
 
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
-                <a href="https://drive.google.com/file/d/1ITFYqmm-qMQJMhyN3TYLCSlIDyrgyH3t/view?usp=sharing"><img
-                  src={murious}
-                  className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
-                  width={1024}
-                  height={490}
-                  alt="AI"
-                /></a>
+                <a href="https://drive.google.com/file/d/1ITFYqmm-qMQJMhyN3TYLCSlIDyrgyH3t/view?usp=sharing">
+                  <img
+                    src={murious}
+                    className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
+                    width={1024}
+                    height={490}
+                    alt="AI"
+                  />
+                </a>
 
                 {/* <Generating className="absolute left-4 right-4 bottom-5 md:left-1/2 md:right-auto md:bottom-8 md:w-[31rem] md:-translate-x-1/2" /> */}
 
@@ -80,7 +87,7 @@ const Hero = () => {
 
             <Gradient />
           </div>
-          <div className="absolute -top-[54%] left-1/2 w-[234%] -translate-x-1/2 md:-top-[46%] md:w-[138%] lg:-top-[104%]">
+          <div className="absolute -top-[54%] left-1/2 w-[234%] scale-[2.5] md:scale-100 -translate-x-1/2 md:-top-[46%] md:w-[138%] lg:-top-[104%]">
             <img
               src={heroBackground}
               className="w-full"
@@ -93,7 +100,7 @@ const Hero = () => {
           <BackgroundCircles />
         </div>
 
-        <CompanyLogos className="hidden relative z-10 mt-20 lg:block" />
+        <CompanyLogos className="relative z-10 mt-20 block" />
       </div>
 
       <BottomLine />
