@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Srijan Saraswat",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Srijan.JPG",
+            "imageUrl": "./src/assets/coordis/Srijan3w.webp",
             "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
             "instagramUrl": ""
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Yash Khatri",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Yash.JPG",
+            "imageUrl": "./src/assets/coordis/Yash3w.webp",
             "linkedinUrl": "https://www.linkedin.com/in/yash--khatri/",
             "instagramUrl": "https://www.instagram.com/yashkhatri99/"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Akshit Mahajan",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Akshit 4.JPG",
+            "imageUrl": "./src/assets/coordis/Akshit 4w.webp",
             "linkedinUrl": "https://www.linkedin.com/in/akshit0mahajan/",
             "instagramUrl": "https://www.instagram.com/_akshitmahajan/"
         },
@@ -28,9 +28,10 @@
             "id": 4,
             "name": "Ayush Rawat",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Ayush.JPG",
+            "imageUrl": "./src/assets/coordis/ayush3w.webp",
             "linkedinUrl": "https://www.linkedin.com/in/ayush-rawat-519b12255/",
             "instagramUrl": "https://www.instagram.com/ayusshh_rawat/"
+
         }
     ],
 
