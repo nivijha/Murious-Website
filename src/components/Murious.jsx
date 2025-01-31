@@ -33,7 +33,7 @@ const Murious = () => {
             </span>
           </h2>
 
-          <p className="pb-10 leading-7">
+          <p className="pb-7 leading-7">
             “TAKE THE JOURNEY, SOAR LIKE AN EAGLE, THERE ARE SO MANY ROADS TO
             EXPLORE SO LITTLE". PRESENTING TO YOU AN EXPERIENCE LIKE NEVER
             BEFORE, "MURIOUS: THE THREE DAYS PANORAMA" THE TMP CLUB AT JUIT IS
