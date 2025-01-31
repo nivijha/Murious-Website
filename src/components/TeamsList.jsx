@@ -1,14 +1,10 @@
 import Section from "./Section";
 import { smallSphere, stars } from "../assets";
 import Heading from "./Heading";
-import PricingList from "./PricingList";
-import { LeftLine, RightLine } from "./design/Pricing";
 import TeamCard from "./TeamCard";
 import { mentors, teamleads, contributors } from '../constants/team.json';
 import '../../public/css/TeamCard.css';
 import '../../public/css/Team.css';
-
-
 
 
 const Pricing = () => {
@@ -35,12 +31,12 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Lorem-ipsum"
+          tag="Meet the TMP techies"
           title="Team"
         />
         <div className="team-container">
             <div className="team-section">
-                <h1>Mentors</h1>
+                <h1 className="text-xl">Mentors</h1>
                 <div className="team-grid">
                     {mentors.map((member) => (
                         <TeamCard key={member.id} {...member} />
@@ -51,7 +47,7 @@ const Pricing = () => {
             <br />
 
             <div className="team-section lead-section">
-                <h1>Team Leads</h1>
+                <h1 className="text-xl">Team Leads</h1>
                 <div className="team-grid">
                     {teamleads.map((member) => (
                         <TeamCard key={member.id} {...member} />
@@ -62,7 +58,7 @@ const Pricing = () => {
             <br />
 
             <div className="team-section">
-                <h1>Contributors</h1>
+                <h1 className="text-xl">Contributors</h1>
                 <div className="team-grid">
                     {contributors.map((member) => (
                         <TeamCard key={member.id} {...member} />

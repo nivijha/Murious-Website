@@ -1,4 +1,3 @@
-import React from 'react';
 import '../../public/css/TeamCard.css';
 import '../../public/css/Team.css';
 import { FaInstagram, FaLinkedin } from "react-icons/fa";
@@ -10,7 +9,7 @@ const TeamCard = ({ name, designation, imageUrl, linkedinUrl, instagramUrl }) =>
             <div className="card-content">
                 <div className="card-background"></div>
                 <div className="person-image">
-                    <img className="card-image" src={imageUrl} alt="Person" />
+                    <img className="card-image" src={imageUrl} alt="Person" loading='lazy' width={308} height={317} />
                 </div>
                 <div className="card-details">
                     <div className="card-text">

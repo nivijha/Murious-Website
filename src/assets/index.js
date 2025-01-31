@@ -59,7 +59,18 @@ import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
-import benefitImage2 from "./benefits/image-2.png";
+import benefitImage2 from "./benefits/Click-O-Mania.webp";
+import benefitImage1 from "./benefits/Logo_Remix_Design.webp";
+import benefitImage3 from "./benefits/Digital_Scavenger_Hunt.webp";
+import benefitImage4 from "./benefits/Code_Cleanse.webp";
+import benefitImage5 from "./benefits/Guess_The_Game.webp";
+import benefitImage6 from "./benefits/Blind_Coding.webp";
+import benefitImage7 from "./benefits/hoodie2.webp";
+import benefitImage8 from "./benefits/QuizE.webp";
+import benefitImage9 from "./benefits/Soaring_Skies.webp";
+import benefitImage10 from "./benefits/TAMBOLA.webp";
+import benefitImage11 from "./benefits/Reel_Rumble.webp";
+import benefitImage12 from "./benefits/Innovation_Derby.webp";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -122,6 +133,17 @@ export {
   benefitIcon3,
   benefitIcon4,
   benefitImage2,
+  benefitImage1,
+  benefitImage3,
+  benefitImage4,
+  benefitImage5,
+  benefitImage6,
+  benefitImage7,
+  benefitImage8,
+  benefitImage9,
+  benefitImage10,
+  benefitImage11,
+  benefitImage12,
   discordBlack,
   facebook,
   instagram,
