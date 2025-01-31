@@ -11,23 +11,24 @@ const mentors = [
         "id": 1,
         "name": "Srijan Saraswat ",
         "designation": "Mentor",
-        "imageUrl": "./coordis/Srijan.JPG",
-        "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
-        "instagramUrl": ""
+        "imageUrl": "./coordis/Srijan3w.webp",
+       "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
+        "instagramUrl": "https://www.instagram.com/_.srijan_saraswat._/"
     },
     {
         "id": 2,
         "name": "Yash Khatri ",
         "designation": "Mentor",
-        "imageUrl": "./coordis/Yash.JPG",
+        "imageUrl": "./coordis/Yash3w.webp",
         "linkedinUrl": "https://www.linkedin.com/in/yash--khatri/",
         "instagramUrl": "https://www.instagram.com/yashkhatri99/"
+
     },
     {
         "id": 3,
         "name": "Akshit Mahajan",
         "designation": "Mentor",
-        "imageUrl": "./coordis/Akshit.JPG",
+        "imageUrl": "./coordis/Akshit 4w.webp",
         "linkedinUrl": "https://www.linkedin.com/in/akshit0mahajan/",
         "instagramUrl": "https://www.instagram.com/_akshitmahajan/"
 
@@ -36,9 +37,10 @@ const mentors = [
         "id": 4,
         "name": "Ayush Rawat",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQFEovmErAbKlw/profile-displayphoto-shrink_200_200/0/1688559988133?e=1710979200&v=beta&t=iYN8jD3jmIon91DeCnAvWjp91hqrVWBT1tiVUFJJWPA",
-        "linkedinUrl": "https://www.linkedin.com/in/ayush-rawat-519b12255/",
+        "imageUrl": "./coordis/ayush3w.webp",
+         "linkedinUrl": "https://www.linkedin.com/in/ayush-rawat-519b12255/",
         "instagramUrl": "https://www.instagram.com/ayusshh_rawat/"
+
     }
 ];
 
@@ -100,8 +102,8 @@ const contributors = [
         "name": "Aarushi Kansal",
         "designation": "Web Developer",
         "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
-        "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
-        "instagramUrl": "https://www.instagram.com/yashkhatri99/"
+        "linkedinUrl": "https://www.linkedin.com/in/aarushi-kansal-12b77731a/",
+        "instagramUrl": "https://www.instagram.com/aarrusshi/"
     },
     {
         "id": 4,
@@ -138,10 +140,10 @@ const contributors = [
     {
         "id": 8,
         "name": "Jeetansh",
-        "designation": "Web & App Dev",
+        "designation": "Web Developer",
         "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
-        "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
-        "instagramUrl": "https://www.instagram.com/shivansh2_55/"
+        "linkedinUrl": "https://www.linkedin.com/in/jeetansh-arora-150863321/",
+        "instagramUrl": "https://www.instagram.com/jeetxilot/"
     },
     {
         "id": 9,
@@ -159,22 +161,7 @@ const contributors = [
         "linkedinUrl": "https://www.linkedin.com/in/hardik-mittal-264ba3315/",
         "instagramUrl": "https://www.instagram.com/itz_hardikkk_/"
     },
-    {
-        "id": 11,
-        "name": "Aditya Sharma",
-        "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQHkJkp5SNR4KA/profile-displayphoto-shrink_800_800/0/1704624943244?e=1710374400&v=beta&t=hIQlxgXfoX0pTUur5b-uIaj-8IVKYaQiMtZaj4Epuo0",
-        "linkedinUrl": "https://www.linkedin.com/in/aditya-sharma-4901952a8",
-        "instagramUrl": "https://www.instagram.com/hey.ady_/"
-    },
-    {
-        "id": 12,
-        "name": "Arpit Sharma",
-        "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D4E03AQE4IwSAiENJoA/profile-displayphoto-shrink_800_800/0/1704906819025?e=1710374400&v=beta&t=0zteZGeRU4p77OSdxpB0MuJNlYSV-Bf_LwHRc3y6UH4",
-        "linkedinUrl": "https://www.linkedin.com/in/arpit-sharma-b1a2892a9/",
-        "instagramUrl": "https://www.instagram.com/arpitsharma9960/"
-    }
+    
 ];
 
 const Team = () => {
