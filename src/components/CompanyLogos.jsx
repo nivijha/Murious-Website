@@ -1,20 +1,24 @@
 import { companyLogos } from "../constants";
 import Heading from "./Heading";
 
+import { Marquee } from "@devnomic/marquee";
+import "@devnomic/marquee/dist/index.css";
+
 const CompanyLogos = ({ className }) => {
   return (
     <div className={className}>
       <Heading className="md:max-w-md lg:max-w-2xl" title="Sponsors" />
-      <ul className="flex">
+      <Marquee
+        fade={true}
+        direction="left"
+        className="gap-[5rem]"
+        innerClassName="gap-[5rem] [--duration:15s]"
+        pauseOnHover={true}
+      >
         {companyLogos.map((logo, index) => (
-          <li
-            className="flex items-center justify-center flex-1 h-[8.5rem]"
-            key={index}
-          >
-            <img src={logo} width={134} height={28} alt={logo} />
-          </li>
+          <img src={logo} width={134} height={28} alt={logo} key={index} />
         ))}
-      </ul>
+      </Marquee>
     </div>
   );
 };
