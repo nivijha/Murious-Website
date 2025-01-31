@@ -121,7 +121,7 @@
         {
             "id": 8,
             "name": "Jeetansh",
-            "designation": "Web & App Dev",
+            "designation": "Web Developer",
             "imageUrl": "./src/assets/contributors/Jeetansh.webp",
             "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
             "instagramUrl": "https://www.instagram.com/shivansh2_55/"
@@ -130,7 +130,7 @@
             "id": 9,
             "name": "Kundan Krishna",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/contributors/KundanW2.webp",
             "linkedinUrl": "https://www.linkedin.com/in/kundan-krishna-991b88308/",
             "instagramUrl": "https://www.instagram.com/kundan._.krishna/"
         },
@@ -138,25 +138,10 @@
             "id": 10,
             "name": "Hardik Mittal",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/contributors/HardikW.webp",
             "linkedinUrl": "https://www.linkedin.com/in/hardik-mittal-264ba3315/",
             "instagramUrl": "https://www.instagram.com/itz_hardikkk_/"
-        },
-        {
-            "id": 11,
-            "name": "Aditya Sharma",
-            "designation": "Web & App Dev",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/aditya-sharma-4901952a8",
-            "instagramUrl": "https://www.instagram.com/hey.ady_/"
-        },
-        {
-            "id": 12,
-            "name": "Arpit Sharma",
-            "designation": "Web & App Dev",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/arpit-sharma-b1a2892a9/",
-            "instagramUrl": "https://www.instagram.com/arpitsharma9960/"
         }
+       
     ]
 }
