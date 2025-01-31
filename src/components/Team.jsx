@@ -140,7 +140,7 @@ const contributors = [
     {
         "id": 8,
         "name": "Jeetansh",
-        "designation": "Web & App Dev",
+        "designation": "Web Developer",
         "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
         "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
         "instagramUrl": "https://www.instagram.com/shivansh2_55/"
@@ -161,22 +161,7 @@ const contributors = [
         "linkedinUrl": "https://www.linkedin.com/in/hardik-mittal-264ba3315/",
         "instagramUrl": "https://www.instagram.com/itz_hardikkk_/"
     },
-    {
-        "id": 11,
-        "name": "Aditya Sharma",
-        "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQHkJkp5SNR4KA/profile-displayphoto-shrink_800_800/0/1704624943244?e=1710374400&v=beta&t=hIQlxgXfoX0pTUur5b-uIaj-8IVKYaQiMtZaj4Epuo0",
-        "linkedinUrl": "https://www.linkedin.com/in/aditya-sharma-4901952a8",
-        "instagramUrl": "https://www.instagram.com/hey.ady_/"
-    },
-    {
-        "id": 12,
-        "name": "Arpit Sharma",
-        "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D4E03AQE4IwSAiENJoA/profile-displayphoto-shrink_800_800/0/1704906819025?e=1710374400&v=beta&t=0zteZGeRU4p77OSdxpB0MuJNlYSV-Bf_LwHRc3y6UH4",
-        "linkedinUrl": "https://www.linkedin.com/in/arpit-sharma-b1a2892a9/",
-        "instagramUrl": "https://www.instagram.com/arpitsharma9960/"
-    }
+    
 ];
 
 const Team = () => {
