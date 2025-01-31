@@ -1,12 +1,12 @@
 import AnimatedCursor from "react-animated-cursor";
 import ButtonGradient from "./assets/svg/ButtonGradient";
-import Benefits from "./components/Benefits";
-import Collaboration from "./components/Collaboration";
+import Events from "./components/Events";
+import JYC from "./components/JYC";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Pricing from "./components/Pricing";
-import Roadmap from "./components/Roadmap";
+import Teams from "./components/TeamsList";
+import Contacts from "./components/Contacts";
 import Murious from "./components/Murious";
 
 const App = () => {
@@ -29,11 +29,11 @@ const App = () => {
         />
         <Header />
         <Hero />
-        <Benefits />
-        <Collaboration />
+        <Events />
+        <JYC />
         <Murious />
-        <Pricing />
-        <Roadmap />
+        <Teams />
+        <Contacts />
         <Footer />
       </div>
 

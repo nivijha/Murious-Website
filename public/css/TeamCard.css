@@ -17,7 +17,7 @@
 
   .card-content {
     position: relative;
-    max-width: 19rem;
+    max-width: 19.5rem;
     max-height: 25rem;
     height: 100%;
     display: flex;
@@ -96,6 +96,7 @@
 
   .person-image {
     max-height: 80%;
+    flex: 1;
   }
 
   .person-image img {

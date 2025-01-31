@@ -1,14 +1,10 @@
 import Section from "./Section";
 import { smallSphere, stars } from "../assets";
 import Heading from "./Heading";
-import PricingList from "./PricingList";
-import { LeftLine, RightLine } from "./design/Pricing";
 import TeamCard from "./TeamCard";
 import { mentors, teamleads, contributors } from '../constants/team.json';
 import '../../public/css/TeamCard.css';
 import '../../public/css/Team.css';
-
-
 
 
 const Pricing = () => {
@@ -35,7 +31,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Lorem-ipsum"
+          tag="Meet the TMP techies"
           title="Team"
         />
         <div className="team-container">
