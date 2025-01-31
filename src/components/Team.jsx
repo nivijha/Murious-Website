@@ -13,7 +13,7 @@ const mentors = [
         "designation": "Mentor",
         "imageUrl": "./coordis/Srijan3w.webp",
        "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
-        "instagramUrl": ""
+        "instagramUrl": "https://www.instagram.com/_.srijan_saraswat._/"
     },
     {
         "id": 2,
@@ -102,8 +102,8 @@ const contributors = [
         "name": "Aarushi Kansal",
         "designation": "Web Developer",
         "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
-        "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
-        "instagramUrl": "https://www.instagram.com/yashkhatri99/"
+        "linkedinUrl": "https://www.linkedin.com/in/aarushi-kansal-12b77731a/",
+        "instagramUrl": "https://www.instagram.com/aarrusshi/"
     },
     {
         "id": 4,
@@ -142,8 +142,8 @@ const contributors = [
         "name": "Jeetansh",
         "designation": "Web Developer",
         "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
-        "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
-        "instagramUrl": "https://www.instagram.com/shivansh2_55/"
+        "linkedinUrl": "https://www.linkedin.com/in/jeetansh-arora-150863321/",
+        "instagramUrl": "https://www.instagram.com/jeetxilot/"
     },
     {
         "id": 9,
