@@ -1,7 +1,5 @@
 import Section from "./Section";
 import { curve } from "../assets";
-import { smallSphere, stars } from "../assets";
-import Heading from "./Heading";
 import TeamCard from "./TeamCard";
 import { mentors, teamleads, contributors } from '../constants/team.json';
 import '../../public/css/TeamCard.css';

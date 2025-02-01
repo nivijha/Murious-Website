@@ -78,6 +78,7 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+import contacts from "./contacts/contacts.json"
 
 export {
   brainwave,
@@ -150,5 +151,6 @@ export {
   telegram,
   twitter,
   jycLogo,
-  muriousLogo
+  muriousLogo,
+  contacts
 };

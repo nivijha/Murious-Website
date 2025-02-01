@@ -1,5 +1,4 @@
 import { curve, muriousLogo } from "../assets";
-import Button from "./Button";
 import Section from "./Section";
 
 const Murious = () => {
