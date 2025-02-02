@@ -57,7 +57,7 @@ const Hero = () => {
                 <a href="https://drive.google.com/file/d/1ITFYqmm-qMQJMhyN3TYLCSlIDyrgyH3t/view?usp=sharing">
                   <img
                     src={murious}
-                    className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
+                    className="w-full scale-[1.7] translate-y-[40%] md:scale-[1] md:-translate-y-[30%] lg:-translate-y-[20%]"
                     width={1024}
                     height={490}
                     alt="AI"
