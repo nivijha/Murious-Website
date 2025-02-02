@@ -13,7 +13,7 @@ const TeamCard = ({ name, designation, imageUrl, linkedinUrl, instagramUrl }) =>
                 </div>
                 <div className="card-details">
                     <div className="card-text">
-                        <h2>{name}</h2>
+                        <h2 className="card-name">{name}</h2>
                         {designation}
                     </div>
                     <div className="card-icons">

@@ -17,7 +17,7 @@
 
   .card-content {
     position: relative;
-    max-width: 19.5rem;
+    max-width: 17.7rem;
     max-height: 25rem;
     height: 100%;
     display: flex;
@@ -62,10 +62,15 @@
   }
   
   .card-text {
+    font-size: 0.83rem;
     text-align: left;
     color: white;
   }
-  
+  .card-name{
+    font-size: 1rem;
+    text-align: left;
+    color: #ad74f4;
+  }
   .card-icons {
     margin: 0 -1rem 0 2rem;
     display: flex;
