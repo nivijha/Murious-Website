@@ -42,17 +42,17 @@ export const navigation = [
   {
     id: "0",
     title: "About",
-    url: "#features",
+    url: "#muriousLink",
   },
   {
     id: "1",
     title: "Events",
-    url: "#pricing",
+    url: "#events",
   },
   {
     id: "2",
     title: "Sponsors",
-    url: "#how-to-use",
+    url: "#sponsors",
   },
   {
     id: "3",
@@ -62,7 +62,7 @@ export const navigation = [
   {
     id: "6",
     title: "Team",
-    url: "#team",
+    url: "#pricing",
   },
   {
     id: "4",

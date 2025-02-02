@@ -6,7 +6,7 @@ import "@devnomic/marquee/dist/index.css";
 
 const CompanyLogos = ({ className }) => {
   return (
-    <div className={className}>
+    <div id="sponsors" className={className}>
       <Heading className="md:max-w-md lg:max-w-2xl" title="Sponsors" />
       <Marquee
         fade={true}
