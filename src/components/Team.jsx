@@ -126,8 +126,8 @@ const contributors = [
         "name": "Ananya",
         "designation": "Web Developer",
         "imageUrl": "src/1737783882203 (1).webp",
-        "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
-        "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
+        "linkedinUrl": "https://www.linkedin.com/in/ananyasoam02",
+        "instagramUrl": "https://www.instagram.com/ananya_7467"
     },
     {
         "id": 7,
