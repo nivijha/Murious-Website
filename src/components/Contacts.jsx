@@ -21,7 +21,7 @@ const Roadmap = () => (
       />
     </div>
 
-    <div className="flex flex-nowrap gap-6 justify-start p-4">
+    <div className="flex flex-nowrap gap-6 justify-start p-4 overflow-auto">
       {contacts.map((contact) => {
         return (
           <div
