@@ -1,4 +1,43 @@
 { 
+    "facultyIncharge": [
+        {
+            "id": 1,
+            "name": "Dr. Naveen Jaglan",
+            "designation": "Faculty Incharge",
+            "imageUrl": "./src/assets/faculty/Naveen_Jaglan.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/naveen-jaglan/"
+        }
+    ],
+    "tmpFaculty": [
+        {
+            "id": 1,
+            "name": "Prof. Dr. Shruti Jai",
+            "designation": "Incharge Coordinator",
+            "imageUrl": "./src/assets/faculty/Shruti_Jai.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/shruti-jai/"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Tanmay Gupta",
+            "designation": "Coordinator",
+            "imageUrl": "./src/assets/faculty/Tanmay_Gupta.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/tanmay-gupta/"
+        },
+        {
+            "id": 3,
+            "name": "Dr. Alok Kumar",
+            "designation": "Coordinator",
+            "imageUrl": "./src/assets/faculty/Alok_Kumar.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/alok-kumar/"
+        },
+        {
+            "id": 4,
+            "name": "Dr. Aayush Sharma",
+            "designation": "Coordinator",
+            "imageUrl": "./src/assets/faculty/Aayush_Sharma.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/aayush-sharma/"
+        }
+    ],
     "mentors" : [
         {
             "id": 1,
