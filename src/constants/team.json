@@ -11,9 +11,9 @@
     "tmpFaculty": [
         {
             "id": 1,
-            "name": "Prof. Dr. Shruti Jai",
+            "name": "Prof. Dr. Shruti Jain",
             "designation": "Incharge Coordinator",
-            "imageUrl": "./src/assets/faculty/Shruti_Jai.webp",
+            "imageUrl": "./src/assets/faculty/Shruti_Jain.webp",
             "linkedinUrl": "https://www.linkedin.com/in/shruti-jai/"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "id": 4,
-            "name": "Dr. Aayush Sharma",
+            "name": "Prof. Aayush Sharma",
             "designation": "Coordinator",
             "imageUrl": "./src/assets/faculty/Aayush_Sharma.webp",
             "linkedinUrl": "https://www.linkedin.com/in/aayush-sharma/"
